@@ -69,10 +69,3 @@ medical_evaluation_system/
 - **语言模型**: OpenAI GPT-4
 - **全文搜索**: SQLite FTS5
 
-OPENAI_API_KEY=sk-9639b0c9cc5d4a918ef7bfefee20bfda
-WQ_API_KEY=RYrw15X94NUgOVm9YUUnKjmBjYvnrjcjRIFaYTVKUo4
-DASHSCOPE_API_KEY=sk-9639b0c9cc5d4a918ef7bfefee20bfda
-OPENAI_API_BASE=https://wanqing.streamlakeapi.com/api/gateway/v1/endpoints
-EMBEDDING_MODEL=text-embedding-v4
-LLM_MODEL=kat-coder-pro-v1
-DATABASE_PATH=./medical_reviews.db
